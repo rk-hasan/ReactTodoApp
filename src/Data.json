@@ -1,0 +1,24 @@
+[
+    {
+        "title" : "Digital Camera",
+        "desc"  : "This is Digital Camera one"
+       
+    },
+
+    {
+        "title" : "Digital Camera Two",
+        "desc"  : "This is Digital Camera Two"
+       
+    },
+
+    {
+        "title" : "Digital Camera three",
+        "desc"  : "This is Digital Camera three"
+       
+    },
+    {
+        "title" : "Digital Camera Four",
+        "desc"  : "This is Digital Camera Four"
+       
+    }
+]
