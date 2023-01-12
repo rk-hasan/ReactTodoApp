@@ -13,6 +13,7 @@ const Newtodo = (props) => {
     const handleSubmit = (event)=>{
         event.preventDefault();
         props.onData(Data);
+        Setnewtodo({title: "", desc: ""})
     }
   
   return (
